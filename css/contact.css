@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat&family=Playfair+Display:wght@600&family=Poppins:wght@100;200;300&family=Raleway:wght@100;200;300;400;600&family=Roboto:wght@100&family=Source+Serif+4:wght@200;300&family=Supermercado+One&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
+
+form{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.formulaire-contact{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  padding: 10px;
+  background:linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0 ,0.5)), 
+  url(../img/background.jpg), center center  
+  no-repeat;
+  background-attachment: fixed;
+  background-attachment: cover;
+}
+.formulaire-contact .container{
+
+  box-shadow: 0 0 1em;
+  border-radius: 10px;
+}
