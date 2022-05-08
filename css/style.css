@@ -30,7 +30,7 @@ header {
 
 main {
 
-  border: 5px solid wheat;
+ /* border: 5px solid wheat;*/
   background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)),
     url(../img/background.jpg), center center no-repeat;
   background-attachment: fixed;
@@ -39,7 +39,7 @@ main {
 }
 main h1{
   font-family: 'Playfair Display', serif;
-  border: 5px solid beige;
+  /*border: 5px solid beige;*/
   color: rgb(126, 194, 126);
 }
  .card-img-top{
