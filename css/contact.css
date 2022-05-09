@@ -4,7 +4,7 @@
 form{
   font-family: 'Roboto Condensed', sans-serif;
 }
-.formulaire-contact{
+main .formulaire-contact{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,9 +14,9 @@ form{
   url(../img/background.jpg), center center  
   no-repeat;
   background-attachment: fixed;
-  background-attachment: cover;
+  background-size: cover;
 }
-.formulaire-contact .container{
+main .formulaire-contact .container{
 
   box-shadow: 0 0 1em;
   border-radius: 10px;
